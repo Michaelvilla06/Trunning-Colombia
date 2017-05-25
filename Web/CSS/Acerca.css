@@ -1,0 +1,21 @@
+﻿*{
+	margin: 0;
+	padding: 0;
+}
+.Acerca{
+	font-size: 20px;
+	margin-left: 360px;
+	margin-top: 40px;
+	width: 700px;
+	height: 200px;
+	text-align: justify;
+}
+.Logo{
+	width: 100px;
+	height: 100px;
+	margin-left: 660px;
+	margin-top: 170px;
+}
+.Acerca h1{
+	text-align: center;
+}
